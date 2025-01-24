@@ -1,4 +1,4 @@
-const apiUrl = 'https://6791e6e7cf994cc68047dc6a.mockapi.io/Users';
+const apiUrl = 'https://6791e6e7cf994cc68047dc6a.mockapi.io/Users';  //API
 
 document.getElementById('userForm').addEventListener('submit', handleFormSubmit);
 
